@@ -7,3 +7,4 @@ int main(){
     area=(3.14*d*d)/4;
     cout<<"Area of circle is "<<area;
 }
+// to be approved by the dhyan
