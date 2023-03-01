@@ -16,3 +16,4 @@ int main(){
     cout << "Area of Rectangle: " << area;
     return 0;
 }
+// C++ Program to Find Area of Rectangle
